@@ -1,0 +1,4 @@
+interface:
+  display_name: "UX-to-UI Blueprint"
+  short_description: "Translate UX architecture into preset-driven UI specs"
+  default_prompt: "Use $ux-to-ui-blueprint to translate my complete UX architecture and design preset into a UI generation context document."

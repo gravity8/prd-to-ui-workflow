@@ -1,0 +1,4 @@
+interface:
+  display_name: "PRD-to-UI Workflow"
+  short_description: "Orchestrate PRD, UX, UI, and tool-ready specifications"
+  default_prompt: "Use $prd-to-ui-workflow to run my PRD through UX architecture, UI blueprint, and the final specification using my design preset and target tool."

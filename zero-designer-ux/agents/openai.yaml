@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zero-Designer UX Engine"
+  short_description: "Turn PRDs into rigorous UX architecture"
+  default_prompt: "Use $zero-designer-ux to turn this PRD into a ruthlessly simplified UX architecture."

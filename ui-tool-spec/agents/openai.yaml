@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Tool Specification"
+  short_description: "Create exact UI specs for visual or code AI tools"
+  default_prompt: "Use $ui-tool-spec to turn my UI Generation Context and Design Preset into an exact specification for my chosen target tool."
